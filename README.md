@@ -11,3 +11,5 @@ Eat Hubr is the restaurant app developed as a project with a team of three. In t
 * CSS
 * HTML
 * JQuery
+
+![alt text](/assets/Images/eathubr.png "Screenshot One")
