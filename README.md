@@ -1,4 +1,4 @@
-# Eat-Hubr
+# Eat Hubr (Restaurant reviews app)
 
 Eat Hubr is the restaurant app developed as a project with a team of three. In this app user can search for their favorite restaurant and can rate and even leave comments.
 
